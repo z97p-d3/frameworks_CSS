@@ -1,0 +1,15 @@
+body {
+	background: url(../images/fondo-1.jpg)no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	opacity: 0.95;
+}
+.color-row{
+	
+	background-color: rgba(78,73,69,1.00);
+}
+
+.fondo-principal{
+	
+	background:rgba(215,124,45,1.00);
+}
