@@ -17,7 +17,7 @@ body {
 }
 
 .mt-1{
-	
+	font-style: italic;
 	margin-top:15px;
 }
 .bt-1{
@@ -33,5 +33,15 @@ a{
 
 .bg-text{
 	color:rgba(199,27,31,1.00);
+}
+
+.borde{
+	border: 1px solid grey;
+	border-radius: 8px;
+}
+
+.size{
+font-size: 60px;
+
 }
 

@@ -1,0 +1,26 @@
+/* CSS Document */
+
+
+.fondo{
+	
+	background: url(../../image/fondo-1.jpg) ;
+	background-position: center center;
+	
+	background-size: cover;
+}
+
+.padding{
+	
+	padding:1rem;
+}
+
+.img-size{
+	
+	width:150px;
+	height: 150px;
+}
+
+.margen{
+	margin-top:1rem;
+	
+}
